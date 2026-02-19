@@ -1,4 +1,4 @@
-# JavaScript Practice
+# JavaScript Fundamentals
 
 Este repositório reúne exercícios e pequenos desafios em JavaScript, com foco em reforçar os fundamentos da linguagem e a lógica de programação.
 
